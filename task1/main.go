@@ -6,6 +6,8 @@ import (
 	"os"
 	"strings"
 
+	//Sorry, I couldn't make the name exactly Assignment1 as it was already one in my github account
+	//I didn't know that I should change go.mod file at first so it took me long to make this work
 	"github.com/umi3uwu/Assignment1_go/library"
 )
 

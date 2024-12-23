@@ -6,7 +6,7 @@ import (
 	"os"
 	"strconv"
 	"strings"
-
+	//Sorry, I couldn't make the name exactly Assignment1 as it was already one in my github account
 	"github.com/umi3uwu/Assignment1_go/bank"
 )
 
